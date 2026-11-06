@@ -1,6 +1,5 @@
 10 RARE TELUGU TERMS WITH COMPLETE POSITIONAL INDEX
 Number of indexed documents: 5000
-Selection: Telugu-letter initial, CF=1, DF=1, different document for each example
 
 EXAMPLE 1: అంకగణితం
 CF=1, DF=1

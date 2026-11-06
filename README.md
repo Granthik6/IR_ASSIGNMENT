@@ -106,7 +106,7 @@ original Wikimedia dump. Different snapshot dates may change the results.
 
 ### FULL GENERATED INDEX (OPTIONAL EXTERNAL MIRROR)
 
-[ADD YOUR PUBLIC GOOGLE DRIVE INDEX FOLDER URL HERE IF YOU UPLOAD IT]
+https://drive.google.com/drive/folders/1U7sXxASswzKmo9v-5sgLYYtz02ELbdO2?usp=sharing
 
 ## NOTES
 
