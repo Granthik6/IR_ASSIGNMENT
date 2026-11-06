@@ -1,0 +1,44 @@
+10 RARE TELUGU TERMS WITH COMPLETE POSITIONAL INDEX
+Number of indexed documents: 5000
+Selection: Telugu-letter initial, CF=1, DF=1, different document for each example
+
+EXAMPLE 1: అంకగణితం
+CF=1, DF=1
+  doc_id=479, title=బాబూ రాజేంద్ర ప్రసాద్, positions=[191]
+
+EXAMPLE 2: అంకముజేరి
+CF=1, DF=1
+  doc_id=80, title=స్వారోచిష మనుసంభవము, positions=[328]
+
+EXAMPLE 3: అంకములు
+CF=1, DF=1
+  doc_id=4008, title=భాస్కర శతకము, positions=[162]
+
+EXAMPLE 4: అంకయ్యు
+CF=1, DF=1
+  doc_id=3420, title=అమ్మ ఎవరికైనా అమ్మ, positions=[83]
+
+EXAMPLE 5: అంకలగి
+CF=1, DF=1
+  doc_id=423, title=బీజాపూర్ జిల్లా (కర్ణాటక), positions=[1817]
+
+EXAMPLE 6: అంకారావు
+CF=1, DF=1
+  doc_id=331, title=కారంపూడి, positions=[1022]
+
+EXAMPLE 7: అంకారును
+CF=1, DF=1
+  doc_id=245, title=థాయిలాండ్, positions=[568]
+
+EXAMPLE 8: అంకాలజీ
+CF=1, DF=1
+  doc_id=1665, title=పెదకాకాని, positions=[382]
+
+EXAMPLE 9: అంకాలమ్మనురో
+CF=1, DF=1
+  doc_id=3580, title=అత్తాకోడళ్లు, positions=[118]
+
+EXAMPLE 10: అంకింతమైన
+CF=1, DF=1
+  doc_id=1931, title=ముద్దుపళని, positions=[81]
+

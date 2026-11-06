@@ -1,0 +1,20 @@
+5 REAL TEST CASES FOR THE TELUGU POSITIONAL INDEX
+Indexed documents: 5000
+Vocabulary size: 223744
+Positions are 0-based indices of cleaned Telugu tokens.
+
+TEST 1: PASS
+CF/DF check for 'ఈ': CF=21504, DF=4011
+
+TEST 2: PASS
+Repeated term 'ంతః', doc_id=1233, positions=[756, 789]
+
+TEST 3: PASS
+Phrase 'వికీపీడియా కు' occurs at position 0 in doc_id=1; matches=1
+
+TEST 4: PASS
+Rare term 'అంకగణితం', CF=1, DF=1, postings=[(479, [191])]
+
+TEST 5: PASS
+Absent term 'ఈపదంఈసేకరణలోలేదుఅనుకోవాలి' -> no postings
+
